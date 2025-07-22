@@ -1,0 +1,341 @@
+html .cog-form[data-width~="450"], :root:root:root:root:root .cog-form[data-width~="450"] {
+  margin: auto auto !important;
+}
+
+:root:root:root:root:root .cog-form__container {
+  background-color: #1F271D !important;
+  padding: 25px 100px !important;
+  margin: 25px 0 30px !important;
+  border-radius: 5px !important;
+}
+
+
+
+html .cog-checkable .el-radio__label, html .cog-checkable .el-checkbox__label, :root:root:root:root:root .cog-checkable .el-radio__label, :root:root:root:root:root .cog-checkable .el-checkbox__label {
+  color: #FFFFFF !important;
+  font-family: 'General Sans', sans-serif !important;
+  font-size: 14px !important;
+  line-height: 130% !important;  
+  letter-spacing: 0% !important;
+  min-height: 40px !important;  }
+
+html .cog-html *:first-child, :root:root:root:root:root .cog-html *:first-child {
+  color: #FFB931 !important;
+  font-family: 'General Sans', sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  line-height: 130% !important; 
+  letter-spacing: 10% !important;
+  text-transform: uppercase !important;
+}
+
+html .cog-spinner .el-input__inner.el-input__inner, 
+:root:root:root:root:root .cog-spinner 
+.el-input__inner.el-input__inner {
+}
+
+html .cog-input .el-textarea__inner, 
+:root:root:root:root:root .cog-input .el-textarea__inner {
+  height: 100px !important;}
+
+
+html .cog-cognito--styled .cog-button--primary, 
+html .cog-cognito--styled .cog-page__navigation .cog-button, 
+:root:root:root:root:root .cog-cognito--styled .cog-button--primary, 
+:root:root:root:root:root .cog-cognito--styled 
+.cog-page__navigation .cog-button {
+  background-color: #F2ECDC !important;
+  width: 200px !important;
+  height: fit-content !important; 
+  min-height: 41px !important;   
+  border-radius: 22px !important;
+  padding: 10px 20px !important; 
+  box-sizing: border-box !important; 
+  border-color: #F2ECDC !important;
+}
+
+html .cog-form__container, :root:root:root:root:root .cog-form__container{
+  background-color: #1F271D !important;
+  padding: 25px 100px !important;
+  margin: 25px 0 30px !important;
+  border-radius: 5px !important;}
+
+  html .cog-cognito--styled .cog-header h1, :root:root:root:root:root .cog-cognito--styled .cog-header h1 {
+  font-family: Didot, serif !important;
+  font-weight: 400 !important;
+  font-size: 36px !important;
+  line-height: 120% !important;
+  letter-spacing: 0% !important;
+  text-align: center!important;
+  text-transform: uppercase !important;
+  }
+
+html #booking .cog-header__description, :root:root:root:root:root 
+.cog-header__description {
+font-family: 'General Sans', sans-serif !important;
+font-weight: normal !important; 
+font-size: 16px !important;
+line-height: 135% !important; 
+letter-spacing: 0%!important;
+text-align: center !important;
+color: #FFFFFF !important;
+}
+
+
+html .cog-cognito--styled textarea, html .cog-cognito--styled select, 
+html .cog-cognito--styled input[type=text], html .cog-cognito--styled [type=tel], 
+html .cog-cognito--styled [type=password], html .cog-cognito--styled [type=date], 
+html .cog-cognito--styled [type=email], html .cog-cognito--styled [type=url], 
+html .cog-cognito--styled [type=time], :root:root:root:root:root .cog-cognito--styled textarea, 
+:root:root:root:root:root .cog-cognito--styled select, 
+:root:root:root:root:root .cog-cognito--styled input[type=text], 
+:root:root:root:root:root .cog-cognito--styled [type=tel], 
+:root:root:root:root:root .cog-cognito--styled [type=password], 
+:root:root:root:root:root .cog-cognito--styled [type=date], 
+:root:root:root:root:root .cog-cognito--styled [type=email], :root:root:root:root:root .cog-cognito--styled [type=url], 
+:root:root:root:root:root .cog-cognito--styled [type=time],
+html .cog-input .el-textarea__inner, :root:root:root:root:root .cog-input .el-textarea__inner {
+  border-radius: 5px !important; 
+
+}
+ 
+#cog-19-label,
+#cog-36-label {
+  font-family: 'General Sans', sans-serif !important;
+  font-weight: 400 !important; 
+  font-style: italic !important;
+  font-size: 13px !important;
+  line-height: 135% !important; 
+  letter-spacing: 0% !important;
+  color:#fff !important;
+  
+}
+
+html .cog-input.is-read-only, :root:root:root:root:root .cog-input.is-read-only {
+  display: none !important;
+}
+
+html .cog-upload:not(.is-read-only), :root:root:root:root:root .cog-upload:not(.is-read-only) {
+    border: none !important;
+    
+}
+
+html .cog-upload .el-upload-dragger>div, :root:root:root:root:root .cog-upload .el-upload-dragger>div {
+  background-color: #fff !important;
+  padding: 5px !important;
+  border-radius: 5px !important;
+}
+
+
+html .cog-cognito button:not([disabled]), :root:root:root:root:root .cog-cognito button:not([disabled])
+ {
+    width: 50%;
+    height: 50px !important;
+    background-color:#78788029;
+    color: #000;
+    border-color:#78788029;
+}
+
+html .cog-upload__drag-text, :root:root:root:root:root .cog-upload__drag-text
+ {
+    width: 50% !important;
+}
+
+html .show-remove-button>.cog-section__inner .cog-section__inner--background, :root:root:root:root:root .show-remove-button>.cog-section__inner .cog-section__inner--background {
+  background: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+html .cog-cognito button:not([disabled]), :root:root:root:root:root .cog-cognito button:not([disabled]) {
+  width: 100%;
+  background-color: none !important;
+  border-color: none !important;
+}
+
+#cog-24-0 {
+  font-family: 'General Sans', sans-serif !important;
+  font-weight: 500 !important; 
+  font-size: 16px !important;
+  line-height: 130% !important; 
+  letter-spacing: 10% !important; 
+  text-transform: uppercase !important;
+  color: #FFB931 !important;
+}
+[title="Remove Traveler Details 1"],
+[title="Remove Traveler Details 2"],
+[title="Remove Traveler Details 3"],
+[title="Remove Traveler Details 4"],
+[title="Remove Traveler Details 5"],
+[title="Remove Insurance Policy 1"],
+[title="Remove Insurance Policy 2"],
+[title="Remove Insurance Policy 3"],
+[title="Remove Insurance Policy 4"],
+[title="Remove Insurance Policy 5"]
+ {
+  display: none !important ;
+}
+
+body > form > div > div > div.cog-body > div > div:nth-child(20) > section > div > button {
+  width: 200px !important;
+  color: #fff !important;
+  padding: 0px !important;
+  background: none !important;
+  border: none !important;
+  border-bottom: solid 1px #fff !important;
+  text-align: left !important;
+}
+
+
+@media (max-width: 820px) {
+ :root:root:root:root:root .cog-form__container {
+  background-color: #1F271D;
+  padding: 10px 25px;
+  margin: 0px 0px;
+  }
+
+  html .cog-cognito--styled .cog-header h1, :root:root:root:root:root .cog-cognito--styled .cog-header h1 {
+    font-size: 28px;
+  }
+
+  html .cog-cognito--styled textarea, html .cog-cognito--styled select, 
+html .cog-cognito--styled input[type=text], html .cog-cognito--styled [type=tel], 
+html .cog-cognito--styled [type=password], html .cog-cognito--styled [type=date], 
+html .cog-cognito--styled [type=email], html .cog-cognito--styled [type=url], 
+html .cog-cognito--styled [type=time], :root:root:root:root:root .cog-cognito--styled textarea, 
+:root:root:root:root:root .cog-cognito--styled select, 
+:root:root:root:root:root .cog-cognito--styled input[type=text], 
+:root:root:root:root:root .cog-cognito--styled [type=tel], 
+:root:root:root:root:root .cog-cognito--styled [type=password], 
+:root:root:root:root:root .cog-cognito--styled [type=date], 
+:root:root:root:root:root .cog-cognito--styled [type=email], :root:root:root:root:root .cog-cognito--styled [type=url], 
+:root:root:root:root:root .cog-cognito--styled [type=time],
+html .cog-input .el-textarea__inner, :root:root:root:root:root .cog-input .el-textarea__inner {
+  width: 90%; 
+
+}
+  
+ html .cog-spinner .el-input__inner.el-input__inner, 
+ :root:root:root:root:root .cog-spinner 
+ .el-input__inner.el-input__inner {
+  width: 100px;
+}}
+
+html .cog-cognito--styled h1, :root:root:root:root:root .cog-cognito--styled h1 {
+  color: #FFFFFF !important;
+}
+
+html .cog-label, :root:root:root:root:root .cog-label {
+  color: #FFFFFF !important;
+  font-family: 'General Sans', sans-serif !important;
+  font-size: 14px !important;
+   font-weight: 300 !important;
+  line-height: 130% !important;   
+  letter-spacing: 0% !important;
+  min-height: 28px !important;   
+}
+
+html .cog-cognito--styled h2, :root:root:root:root:root .cog-cognito--styled h2 {
+  display: none !important;
+}
+
+html .cog-spinner .el-input__inner.el-input__inner, :root:root:root:root:root 
+.cog-spinner .el-input__inner.el-input__inner {
+  width: 295px;
+  position: relative !important;
+  display: inline-block !important;
+}
+
+html .cog-spinner .el-input-number__increase, 
+:root:root:root:root:root .cog-spinner .el-input-number__increase { 
+  position: absolute !important;
+  left: 220px !important; 
+  background-image: none !important;
+}
+
+html .cog-spinner .el-input-number__decrease, 
+:root:root:root:root:root .cog-spinner .el-input-number__decrease {
+  position: absolute !important;
+  left: 60px !important; 
+  background-image: none !important;
+}
+
+.cog-field.cog-field--72.cog-col.cog-col--24.cog-yesno.cog-yesno--radiobuttons  legend{
+  color: #1F271D !important;
+  margin-bottom: -30px !important;
+}
+
+
+.cog-field.cog-field--73.cog-col.cog-col--24.cog-yesno.cog-yesno--radiobuttons  legend{
+  color: #1F271D !important;
+  margin-bottom: -30px !important;
+}
+
+button.el-button.cog-button.cog-button--secondary.cog-repeating-section__add-button {
+  width: 150px !important;
+  color: #fff !important;
+  border: none !important;
+  border-bottom: 3px solid #fff !important;
+  background-color: transparent !important;
+}
+
+button.el-button.cog-button.cog-button--secondary.cog-repeating-section__add-button:hover {
+  border: none !important;
+  border: 3px solid #fff !important;
+}
+
+
+@media (max-width: 820px) {
+html .cog-spinner .el-input__inner.el-input__inner, :root:root:root:root:root 
+.cog-spinner .el-input__inner.el-input__inner {
+  width: 250px !important;
+}
+
+html .cog-spinner .el-input-number__increase, 
+:root:root:root:root:root .cog-spinner .el-input-number__increase { 
+  left: 150px !important; 
+}
+}
+
+@media (max-width: 720px) {
+ html .cog-spinner .el-input__inner.el-input__inner, :root:root:root:root:root 
+.cog-spinner .el-input__inner.el-input__inner {
+  width: 210px !important;
+}
+
+html .cog-spinner .el-input-number__decrease, 
+:root:root:root:root:root .cog-spinner .el-input-number__decrease {
+  left: 30px !important; 
+} 
+}
+
+@media (max-width: 625px) {
+ html .cog-spinner .el-input__inner.el-input__inner, :root:root:root:root:root 
+.cog-spinner .el-input__inner.el-input__inner {
+  width: 200px !important;
+}
+
+html .cog-spinner .el-input-number__increase, 
+:root:root:root:root:root .cog-spinner .el-input-number__increase { 
+  left: 150px !important; 
+}
+
+:root:root:root:root:root .cog-form__container {
+  background-color: #1F271D !important;
+  padding: 25px 20px !important;
+  margin: 25px 0 10px !important;
+}
+}
+
+#cog-18-0,
+#cog-23-0,
+#cog-36-0
+ {
+   color: #FFB931 !important;
+  font-family: 'General Sans', sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  line-height: 130% !important; 
+  letter-spacing: 10% !important;
+  text-transform: uppercase !important; 
+}
