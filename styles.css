@@ -340,6 +340,6 @@ html .cog-spinner .el-input-number__increase,
   text-transform: uppercase !important; 
 }
 
-html div.cog-col.cog-col--24, :root:root:root:root:root div.cog-col.cog-col--24{
+html .cog-page>.cog-row:first-child>.cog-col, :root:root:root:root:root .cog-page>.cog-row:first-child>.cog-col{
   display: hidden !important;
 }
