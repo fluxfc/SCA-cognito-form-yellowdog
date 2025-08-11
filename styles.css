@@ -342,6 +342,6 @@ html .cog-spinner .el-input-number__increase,
 
 
 
-html .cog-page>.cog-row:first-child>.cog-col, :root:root:root:root:root .cog-page>.cog-row:first-child>.cog-col{
+body > section > form > div > div > div > div > div:nth-child(1){
   display: none !important;
 }
